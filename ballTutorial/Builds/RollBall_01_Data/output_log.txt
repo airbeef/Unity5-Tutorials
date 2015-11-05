@@ -1,0 +1,27 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity\project 1 - Ball Intro\ballTutorial\Builds\RollBall_01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity\project 1 - Ball Intro\ballTutorial\Builds\RollBall_01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity\project 1 - Ball Intro\ballTutorial\Builds\RollBall_01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity\project 1 - Ball Intro\ballTutorial\Builds\RollBall_01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity\project 1 - Ball Intro\ballTutorial\Builds\RollBall_01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity\project 1 - Ball Intro\ballTutorial\Builds\RollBall_01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity\project 1 - Ball Intro\ballTutorial\Builds\RollBall_01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Unity\project 1 - Ball Intro\ballTutorial\Builds\RollBall_01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Unity\project 1 - Ball Intro\ballTutorial\Builds\RollBall_01_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.041 seconds
+desktop: 1920x1080 60Hz; virtual: 3000x1920 at 0,-483
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Unity\project 1 - Ball Intro\ballTutorial\Builds\RollBall_01_Data\Managed\System.dll (this message is harmless)
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2e54 -> priority: 1 
+  Thread -> id: 32fc -> priority: 1 
+  Thread -> id: 30c8 -> priority: 1 
